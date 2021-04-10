@@ -1,0 +1,4 @@
+I, [2021-04-10T17:31:37.106710 #6514]  INFO -- : Migrating to CreateTasks (20131207003653)
+I, [2021-04-10T17:31:37.326784 #6514]  INFO -- : Migrating to DeviseCreateUsers (20131220100945)
+I, [2021-04-10T17:31:37.380058 #6514]  INFO -- : Migrating to AddConfirmableToUsers (20131220102427)
+I, [2021-04-10T17:31:37.460936 #6514]  INFO -- : Migrating to AddColumnUserIdToTasks (20131220123456)
